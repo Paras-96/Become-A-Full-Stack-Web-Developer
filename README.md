@@ -56,6 +56,8 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * Coursera Course (Not CS Specific) - [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
   * Repetition, Repetition, Repetition - [Reddit Discussion on study techniques](https://www.reddit.com/r/learnprogramming/comments/5pyx5t/a_beginners_trick_i_learned_way_too_late_in_the/)
   * What technologies to learn and strategies to learn them - [How to learn web development](https://codetheweb.blog/2017/10/04/how-to-learn-web-development/)
+  * Which technologies to focus on and how to effectively learn them - [How to master web development](https://www.scaler.com/blog/web-development-roadmap/)
+
 
 ---
 ### What is the Single most useful CS Bookmark you have?
